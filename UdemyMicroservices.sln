@@ -22,6 +22,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IdentityServer", "IdentityS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FreeCourse.IdentityServer", "IdentityServer\FreeCourse.IdentityServer\FreeCourse.IdentityServer.csproj", "{B24F846E-8AF3-4A94-820B-6458C5110DC8}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PhotoStock", "PhotoStock", "{2DF88A91-7E80-49A0-BAAF-03A44CF7CC7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreeCourse.Services.PhotoStock", "Services\PhotoStock\FreeCourse.Services.PhotoStock\FreeCourse.Services.PhotoStock.csproj", "{481C6269-57B9-482B-8A3E-398D6CF48057}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -40,6 +44,10 @@ Global
 		{B24F846E-8AF3-4A94-820B-6458C5110DC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B24F846E-8AF3-4A94-820B-6458C5110DC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B24F846E-8AF3-4A94-820B-6458C5110DC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{481C6269-57B9-482B-8A3E-398D6CF48057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{481C6269-57B9-482B-8A3E-398D6CF48057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{481C6269-57B9-482B-8A3E-398D6CF48057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{481C6269-57B9-482B-8A3E-398D6CF48057}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -49,6 +57,8 @@ Global
 		{B91F5ABC-4434-41A5-8CF6-C9B82993CE85} = {3EDF519F-9E72-4364-943C-B52D3CEEB472}
 		{791B7BBC-95F5-4C16-934B-EF3624C14789} = {50CCDC9A-3225-44EE-9834-FF080D2BFA08}
 		{B24F846E-8AF3-4A94-820B-6458C5110DC8} = {89246943-4BEE-48BB-91BE-0030EEF2A6E2}
+		{2DF88A91-7E80-49A0-BAAF-03A44CF7CC7F} = {F9B10AE0-06D8-4EA8-97DB-B2335255106C}
+		{481C6269-57B9-482B-8A3E-398D6CF48057} = {2DF88A91-7E80-49A0-BAAF-03A44CF7CC7F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {81867F85-9550-4573-9085-F83A04DF50FE}
