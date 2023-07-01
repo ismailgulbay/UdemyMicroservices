@@ -2,4 +2,5 @@ Services
 	-catalogAPI => 5270
 	-photoStockAPI => 5175
 	-basketAPI => 5099
+	-discountAPI => 5052
 IdentityServer => 5001
